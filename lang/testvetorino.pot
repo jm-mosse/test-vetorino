@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Vetorino\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-12 15:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: testvetorino"
+
+#: includes/vt-functions.php:42
+#, php-format
+msgid "<span id=\"cumulated_points\">%s</span> point"
+msgid_plural "<span id=\"cumulated_points\">%s</span> points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vt-functions.php:26
+msgid "Account points"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Accumulate points with each order, the number of points accumulated "
+"corresponds to 5% of the amount of an order rounded down to the lower unit. "
+"These points are displayed in a new section of the customer's testvetorino "
+"Account part. When the customer reaches at least 50 points, he can click on "
+"a button to send himself a reduction coupon by e-mail of a value equal to "
+"the number of points he chooses to consume, the coupon can be used only once "
+"time."
+msgstr ""
+
+#: includes/vt-functions.php:44
+msgid ""
+"Collect at least 50 points to generate a discount coupon of the same value "
+"as your points on your next order."
+msgstr ""
+
+#: includes/vt-functions.php:48
+msgid ""
+"Generate a discount coupon of the same value as your points on your next "
+"order."
+msgstr ""
+
+#: includes/vt-functions.php:52
+#, php-format
+msgid "Generate your %s discount coupon"
+msgstr ""
+
+#: includes/vt-functions.php:98
+#, php-format
+msgid "Here is your %s discount coupon to use on your next order."
+msgstr ""
+
+#. Author of the plugin
+msgid "Jim"
+msgstr ""
+
+#: includes/vt-functions.php:41
+msgid "Number of points earned"
+msgstr ""
+
+#: test-vetorino.php:67
+msgid "Sendinblue API key:"
+msgstr ""
+
+#: test-vetorino.php:60
+msgid "Sendinblue Mail:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Test Vetorino"
+msgstr ""
+
+#: test-vetorino.php:46 test-vetorino.php:54
+msgid "Test Vetorino Settings"
+msgstr ""
+
+#: includes/vt-functions.php:103
+msgid "Your coupon"
+msgstr ""
